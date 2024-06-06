@@ -6237,6 +6237,7 @@ birkefrancestore.fr
 birkenoutlet.fr
 birkenstock-fr.fr
 birkenstock-shop.fr
+birkenstock-store.fr
 birkenstock.re
 birkenstockparis.fr
 birkenstocks.fr
@@ -7569,6 +7570,7 @@ cartevitale-config.fr
 cartevitale-cpam.fr
 cartevitale-demande.fr
 cartevitale-dossier.fr
+cartevitale-enligne.fr
 cartevitale-france.fr
 cartevitale-info-ameli.fr
 cartevitale-info-sante.fr
@@ -11089,6 +11091,7 @@ custsecureapps-verifuser-sessionid136284953er.qdts-uiz.com
 cutcoins.com
 cuya.fr
 cv-ameli.fr
+cv-regularisation.fr
 cv2-ameli.fr
 cv3-ameli.fr
 cv4-ameli.fr
@@ -16905,6 +16908,7 @@ healthcarestock.net
 healthplusconsult.com
 healthproductsbuyersguide.com
 healthsdelta.com
+healthstore.fr
 healthyhgh.com
 healthyman.info
 healthyncdairy.com
@@ -20148,7 +20152,9 @@ lacharentelibre.fr
 lachhmandasjewellers.com
 lacontrevoei.fr
 lacost.fr
+lacoste-fr.fr
 lacoste-france.fr
+lacoste-officiel.fr
 lacosteoutlet.fr
 lacosteoutletfrance.fr
 lacostesiteofficiel.fr
@@ -23381,6 +23387,7 @@ mon-assurancevitale.fr
 mon-assure-espace-enligne.fr
 mon-assure-espace-renouvellement.fr
 mon-assure-renouvellement-en-ligne.fr
+mon-assure-renouvellement-espace.fr
 mon-assure-sms-en-ligne.fr
 mon-assure-sms-enligne.fr
 mon-auto-assure.fr
@@ -23497,6 +23504,7 @@ mon-espace-renouvellement-en-ligne.fr
 mon-espace-renouvellement-sms.fr
 mon-espace-renouvellement.fr
 mon-espace-retard-redistrisbution.fr
+mon-espace-sante-conecte.fr
 mon-espace-sante-en-ligne.fr
 mon-espace-sante-info.fr
 mon-espace-securisation.fr
@@ -28937,6 +28945,7 @@ reglement-contraventions.fr
 reglement-edf.fr
 reglement-espace-abonnement.fr
 reglement-espace.fr
+reglement-impaye.fr
 reglement-info-dossier.fr
 reglement-info.fr
 reglement-infraction.fr
@@ -31137,6 +31146,7 @@ sephi03amazo.fr
 sephor.fr
 sephora-promo.fr
 sephoracare.fr
+sephorafrance.fr
 sephorra.fr
 sephorso.beget.tech
 sephra.fr
