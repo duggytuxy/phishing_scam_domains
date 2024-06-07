@@ -820,6 +820,7 @@ acceder-a-mon-dossier-en-ligne.fr
 acceder-contravention.fr
 acceprivee-moncompte.fr
 acceptation-payement-boncoin-ile-france.fr
+acces-ameli-info.fr
 acces-ameli.fr
 acces-amendesgouv.fr
 acces-assurance-maladie.fr
@@ -5689,6 +5690,7 @@ banque-france-en-ligne-service-fr.fr
 banque-francegouv.fr
 banque-hsbc.fr
 banque-infogouv.fr
+banque-ing.fr
 banque-nickel.fr
 banque-populaire-cyberpass-22-fevrier-2018.consei87.beget.tech
 banque-populaire-cyberplus.conseibi.beget.tech
@@ -5929,6 +5931,7 @@ beauclerehomes.com
 beauteeprivee.fr
 beauten.fr
 beautiful-girl-names.com
+beautifulclothes.fr
 beauty-mariagruber.de
 beauty-outlet.fr
 beauty-picz.cf
@@ -6301,6 +6304,7 @@ blablacar-ride.fr
 blablacar-suspension.fr
 blablacar-ticket.fr
 blablacar-tickets.fr
+blablacar-verify.fr
 blablacars.fr
 blablcar.fr
 black.pk
@@ -8229,6 +8233,7 @@ chaussureideales.fr
 chaussurejordan.fr
 chaussurelloyd.fr
 chaussurelouboutinoutlet.fr
+chaussuremeindl.fr
 chaussuremizuno.fr
 chaussurepalladium.fr
 chaussureredwing.fr
@@ -9513,6 +9518,7 @@ cnalplus.fr
 cnam-marseille.fr
 cnam-portail.fr
 cnam-prestation.fr
+cnam-regularisation.fr
 cnam-toulon.fr
 cnamparis.fr
 cnams-occitanie.fr
@@ -10140,6 +10146,7 @@ connect-lmpots.fr
 connect-n3tflix.fr
 connect-navigo.fr
 connect-netflix.fr
+connect-pass-societegenerale.fr
 connect-racco.fr
 connect.secure.wellsfargo.com.aaru486.com.au
 connect.secure.wellsfargo.com.auth.login.present.origin.coberror.yeslob.consdestination.accountsummary.fortunepress.com.au
@@ -10782,6 +10789,7 @@ credit-agrivole.fr
 credit-argricole-service.fr
 credit-artois.fr
 credit-card.message27.com
+credit-cic.fr
 credit-cifbank.fr
 credit-du-nord-alsace.fr
 credit-du-nord-assistance.fr
@@ -11391,11 +11399,13 @@ dconthelake.com.au
 dcotolib.fr
 dcpj-cybergend11.fr
 dcrgroup.net
+dcshoeparis.fr
 dcshoes-paris.fr
 dcshoesfrance.fr
 dcshoeshomme.fr
 dcshoesparis.fr
 dcshoessolde.fr
+dcshoessparis.fr
 dctna-sg.fr
 dcvaad06ad-system.esy.es
 dcxbmm.com
@@ -12054,6 +12064,7 @@ disneycompte-id.fr
 disneyconnexion.fr
 disneycorp.fr
 disneydreamlightvalley-fr.fr
+disneyetsenteurs.fr
 disneyfrance.fr
 disneyholidays.fr
 disneyland-boutique.fr
@@ -13924,6 +13935,7 @@ etnkorea.com
 etr-mobile1.com
 etran01amazo.fr
 etran02amazo.fr
+etrangersfrancais.fr
 etransfer-interaconline-mobiledeposit879.com
 etransfer-mobility-refund.com
 etribunaldunet.fr
@@ -15061,6 +15073,7 @@ fr-cisetp.fr
 fr-client.fr
 fr-colruyt.fr
 fr-colruytfrance.fr
+fr-compte-en-ligne.fr
 fr-compte.fr
 fr-comptes.fr
 fr-cora.fr
@@ -23907,6 +23920,7 @@ moneybackfinder.com
 moneycontrol.fr
 moneydo0cument.com
 moneyeventcatering.com
+monformulaire-2024-en-ligne.fr
 monfranceconnect.fr
 mongouvernement.fr
 monidopo.bee.pl
@@ -28484,6 +28498,7 @@ rakshahomes.com
 rakuten.tf
 ralanacional.com
 ralph-lauren-pas-cher.fr
+ralphlauren-france.fr
 ralphlaurenfrance.fr
 ralphlaurenfrsolde.fr
 ralphlaurenoutlet.fr
@@ -32667,6 +32682,7 @@ snapverif.fr
 snaqchat.fr
 snatchnews.trade
 snav.fr
+sncf-cnnect.fr
 sncf-comect.fr
 sncf-disconnect.fr
 sncf-france.fr
@@ -34708,7 +34724,9 @@ ticketlegend.fr
 ticketlegende.fr
 ticketmaster.re
 ticketmasterfrance.fr
+ticketmastter.fr
 ticketmet.fr
+ticketnews.fr
 ticketnice.fr
 tickets-joparis2024.fr
 ticketsjoparis2024.fr
@@ -38326,6 +38344,7 @@ xn--sgsant-gva.fr
 xn--sgssant-hya.fr
 xn--sidesant-i1a.fr
 xn--sidessant-j4a.fr
+xn--snapcht-bxa.fr
 xn--socgnrale-clients-etbb.fr
 xn--societegenerale-gestion-scurit-zxcf.fr
 xn--societegnrale-secu-iwbb.fr
