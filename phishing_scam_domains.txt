@@ -1081,6 +1081,7 @@ acheminements-chronopost.fr
 acheminements-colis.fr
 acheminements-suivi.fr
 acheminementscolis-chronopost.fr
+acheminez-votre-colis.fr
 achete-followers.fr
 acheter-ozempic.fr
 acheter-permisdeconduire.fr
@@ -2214,6 +2215,7 @@ amazon-ciient.fr
 amazon-commande.fr
 amazon-compte-client.fr
 amazon-compte-suspendu.fr
+amazon-compte.fr
 amazon-comptes.fr
 amazon-connection.fr
 amazon-connexion-web.fr
@@ -3027,6 +3029,7 @@ amelivitale.fr
 amelivitalefrance.fr
 amelivitaleinfo.fr
 amelivitales.fr
+amelivitalesupport.fr
 amelivosdroits.fr
 amelj-cartevitale.fr
 amell-france.fr
@@ -4925,9 +4928,11 @@ assure-maladie-france.fr
 assure-maladie-renouvellement.fr
 assure-maladie.fr
 assure-maladierenouvellement.fr
+assure-masante-enligne.fr
 assure-mon-espace-en-ligne.fr
 assure-mon-espace-enligne.fr
 assure-mon-espace-renouvellement.fr
+assure-mon-renouvellement.fr
 assure-moncompte-enligne.com
 assure-moncomptebnp.msmclepromo.com
 assure-renouvellement-sms.fr
@@ -6193,6 +6198,7 @@ binance-securisation.fr
 binance-support.fr
 binance.pm
 binance.re
+binanceinscription.fr
 binancesecure.fr
 binarybuzzer.com
 binted.fr
@@ -6622,6 +6628,7 @@ bourso-confirmation.fr
 bourso-contact.fr
 boursoactivationprofils.fr
 boursoactivmobile.fr
+boursobankinvestissement.fr
 boursobankonline.fr
 boursobanq.fr
 boursobnk.fr
@@ -9523,6 +9530,7 @@ cnam-portail.fr
 cnam-prestation.fr
 cnam-recouvrement.fr
 cnam-regularisation.fr
+cnam-regularisations.fr
 cnam-toulon.fr
 cnamparis.fr
 cnams-occitanie.fr
@@ -15055,6 +15063,7 @@ fr-ausy.fr
 fr-auth.fr
 fr-authacces.fr
 fr-authent.fr
+fr-authentification.fr
 fr-bardusch.fr
 fr-bateg.fr
 fr-bayard.fr
@@ -16320,6 +16329,7 @@ gouv-int.fr
 gouv-inter-bpm.fr
 gouv-inter-cybergendarmerie.fr
 gouv-interieur.fr
+gouv-link.fr
 gouv-maison-ecologique.fr
 gouv-majoration.fr
 gouv-mes-amendes-antai.fr
@@ -19125,6 +19135,7 @@ jacquemus-shop.fr
 jacquemus-soldes.fr
 jacquemus-store.fr
 jacquemusfrance.fr
+jacquemuss.fr
 jacquemusshop.fr
 jacques-brinat.fr
 jacquetsas.fr
@@ -28025,6 +28036,7 @@ prestations-vitale.fr
 prestige-outlet.fr
 prestigecoachworks.co.uk
 prestigemotorbikecovers.co.uk
+prestigeoutlet.fr
 prestigeservices.gq
 pret-orange.fr
 prettylittlethings.fr
@@ -31461,6 +31473,7 @@ service-reactivation.fr
 service-reactivations.fr
 service-recharges.fr
 service-reclamationdfdj.fr
+service-recouvrements.fr
 service-regularisation.fr
 service-regulation.fr
 service-relivraison-chronopost.fr
@@ -32991,6 +33004,7 @@ sonicons.com
 soniksports.fr
 sonolivar.com
 sonoma-wine-tasting.com
+sony-music.fr
 sonyfrance.fr
 sonymusicgroup.fr
 soothingminds.biz
@@ -34076,6 +34090,7 @@ supportteamfb.16mb.com
 supporttechniques.com
 supportups.fr
 supportusers.fr
+supportvitale-ameli.fr
 supportwindows.fr
 supporty7.regis-fanpageee-confirm.ga
 suppot-amzn.fr
