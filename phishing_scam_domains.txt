@@ -8573,6 +8573,7 @@ actualisation-carte-vitale-ameli.fr
 actualisation-carte-vitale.fr
 actualisation-carte.fr
 actualisation-cartes.fr
+actualisation-cartevital.fr
 actualisation-cartevitale.fr
 actualisation-colissimo.fr
 actualisation-compte.fr
@@ -27527,6 +27528,7 @@ bnp-support.fr
 bnpepargne.fr
 bnpfinance.fr
 bnpgroups.fr
+bnpimmo.fr
 bnpnews.net
 bnpotc.com
 bnppara.com
@@ -31613,6 +31615,7 @@ canada-delivery-portal.info
 canada-jobs.com
 canada-online-24.top
 canada-virement2024.fr
+canada2024-lnterac.fr
 canada777.com
 canadabestonline.com
 canadabostonterrier4sale.com
@@ -104150,6 +104153,7 @@ mon-courrier-suivis.fr
 mon-crediit-agricolee.fr
 mon-crit.site
 mon-domain.fr
+mon-dossier-administratif-en-ligne.fr
 mon-dossier-amende.fr
 mon-dossier-amendes.fr
 mon-dossier-antai.fr
@@ -111764,6 +111768,7 @@ notification-formulaire.fr
 notification-info.fr
 notification-netflix.fr
 notification-securite.fr
+notification-support.fr
 notification-twitter.com
 notification2020.icu
 notificationbyfacebook.firebaseapp.com
@@ -116970,6 +116975,7 @@ outlet-hardware.com
 outlet-jacquemus.fr
 outlet-lacoste.fr
 outlet-luxe.fr
+outlet-moncler.fr
 outlet-nb.fr
 outlet-newbalance.fr
 outlet-nike.fr
@@ -128889,6 +128895,7 @@ redirect-link.com
 redirect-netflx.fr
 redirect-path1.com
 redirect-path2.com
+redirect-transit.fr
 redirect-tunnel.net
 redirect.newprogrammatic.click
 redirect.sgtips.com
@@ -129987,6 +129994,7 @@ renouvelle-espace-enligne.fr
 renouvelle-netflix.info
 renouvelle-rb-vicarte.fr
 renouvellemcvitale.fr
+renouvellement-abo-info.fr
 renouvellement-abo.fr
 renouvellement-abonnement-client.fr
 renouvellement-abonnement-netflix.fr
@@ -137626,6 +137634,7 @@ services-totalenergies.fr
 services-transactions-lydia.fr
 services-verification.fr
 services-vitale.fr
+services-vitales.fr
 services.spytoapp.com
 services64.linkpc.net
 servicesabonnement.fr
@@ -171300,6 +171309,7 @@ xn--authentification-socit-gnral-vrcbcb.fr
 xn--avenirsantmutuelle-kwb.fr
 xn--avis-rgularisation-impaye-gic.fr
 xn--aws-scurit-f7af.fr
+xn--axa-mutuelle-sant-rtb.fr
 xn--axa-scurisation-fnb.fr
 xn--axelarigatokbenhavn-67b.com
 xn--b1adccayqiirhu.xn--p1ai
