@@ -35673,6 +35673,7 @@ chaussures-mephisto.fr
 chaussures-samson.fr
 chaussures-toms.fr
 chaussures.co.com
+chaussuresadidascampus.fr
 chaussuresaldo.fr
 chaussuresalegriaparis.fr
 chaussuresallbirdsparis.fr
@@ -40961,6 +40962,7 @@ compcon.co.in
 compe-nickel.fr
 compellingperch.com
 compensate-gmai.com
+compensation-navigo.fr
 compensationpropulsion.com
 comperai.com
 comperestronger.com
@@ -43723,6 +43725,7 @@ criminalweightforetaste.com
 crimsondozeprofessional.com
 crinpro.com
 criogetikfenbut.org
+criox-rouge.fr
 cripennal150.estrategiaadministrativa.wine
 crippledwingant.com
 criptouzbepul.com
@@ -57910,6 +57913,8 @@ etu-unicaen.fr
 etu-univ-lehavre.fr
 etu-univ-montp3.fr
 etu-univ-tlse2.fr
+etu-univ-tours.fr
+etu-univrouen.fr
 etu-univtlse.fr
 etudespragmatiques.fr
 etudiantgouv.fr
@@ -64549,6 +64554,7 @@ fr-esim.fr
 fr-esrifrance.fr
 fr-exaprobe.fr
 fr-feragfrancesas.fr
+fr-footlocker.fr
 fr-franprix.fr
 fr-galy.fr
 fr-gcc.fr
@@ -94713,6 +94719,7 @@ lerouxkitchenes.com
 leroy-merlin-france.fr
 leroy-merlin-outillage.fr
 leroy-outillage.fr
+leroymeriln.fr
 leroymerli.fr
 leroymerlia.fr
 leroymerlin-achat.fr
@@ -98806,6 +98813,7 @@ login-orangei.fr
 login-postbanks.fr
 login-prime.fr
 login-primevid.fr
+login-primevideo.fr
 login-secure.fr
 login-service.net
 login-snapchat.fr
@@ -98854,7 +98862,9 @@ loginpage-ads2.vercel.app
 loginpencetjudi.net
 loginplusapp.com
 loginpod.ca
+loginprime-video.fr
 loginprime.fr
+loginprimevideo.fr
 loginqrukr.net
 loginsdaum.viewdns.net
 loginserviciodecorreo.evolutlons.tv
@@ -106993,6 +107003,7 @@ milandvb.no-ip.net
 milanjewelrya.com
 milanluxfashion.com
 milanomodaweekly.com
+milanostore-outlet.fr
 milansodoma.com
 milanspielesale.shop
 milarose.store
@@ -108809,6 +108820,7 @@ mon-espace-edf.fr
 mon-espace-en-ligne-renouvellement.fr
 mon-espace-en-ligne-sms.fr
 mon-espace-en-ligne.fr
+mon-espace-enligne-renouvel.fr
 mon-espace-enligne-renouvellement.fr
 mon-espace-enligne-sms.fr
 mon-espace-enligne.fr
@@ -131265,6 +131277,7 @@ primeprofitfx.com
 primeqmpletenewsletter.com
 primeratrade.net
 primereader.co.in
+primereclamation.fr
 primereflux.io
 primerenew.fr
 primerex.net
@@ -131299,12 +131312,14 @@ primevidabo.fr
 primevidcancel.fr
 primevideo-annulation.com
 primevideo-annulationsouscription.com
+primevideo-login.fr
 primevideo-souscriptionannulation.com
 primevideo.ltd
 primevideo.net
 primevideo.pm
 primevideo.re
 primevideoamz.com
+primevideologin.fr
 primevideos.store
 primevideos.xyz
 primevideostatus.com
@@ -132457,6 +132472,7 @@ psegenergysaver.com
 pseglirgouy.com
 pselubeet.com
 pserdagrit.net
+psg-shop.fr
 psg-store.fr
 psg.make9-salon.com
 psh-bk.site
@@ -135649,6 +135665,7 @@ reclaimexpert.net
 reclaimmycredit.com
 reclamation-critairgouv.fr
 reclamation-primevideo.fr
+reclamationprime.fr
 recleaderstraining.com
 reclinersmall.com
 recocomputer.com
@@ -136519,6 +136536,7 @@ regularisation-amendes.fr
 regularisation-antai.fr
 regularisation-antail.fr
 regularisation-banquefrance.fr
+regularisation-carte.fr
 regularisation-cartes.fr
 regularisation-chronopost.fr
 regularisation-colis.fr
@@ -150021,6 +150039,7 @@ sneakersiba.fr
 sneakersitalia.com
 sneakersoldes.fr
 sneakerspromo.fr
+sneakerssource.fr
 sneakerstoreparis.fr
 sneakerz2020.com
 sneakerzfrance.fr
@@ -151094,6 +151113,7 @@ sosdta.com
 sosendt.org
 sosexy.org
 soslee.group
+sosneakers.fr
 sosnovaclassic.com
 soso-delivery.xyz
 sosowie.com
