@@ -7801,6 +7801,7 @@ ac-aix.fr
 ac-ameli.fr
 ac-amins.fr
 ac-angers.fr
+ac-antibes.fr
 ac-apple.support
 ac-b2b-partners.com
 ac-besabcon.fr
@@ -34320,6 +34321,7 @@ c-al-e1nder.com
 c-and-a-austria.at
 c-and-a-france.fr
 c-and-a-osterreich.com
+c-and-afrance.fr
 c-appleid-apple.fr
 c-cdns.top
 c-chronopost.fr
@@ -142704,6 +142706,7 @@ qointechex.com
 qol-rent-a-small-office-0gn.rest
 qolasam.com
 qonto-banque.fr
+qontoconnexion.fr
 qontoserviceclient.fr
 qoo10.top
 qooqle.fr
@@ -146578,8 +146581,12 @@ renew-disnew.help
 renew-ensdomains.com
 renew-netfiix.fr
 renew-pl.net
+renew-prime-video.fr
 renew-prime.fr
+renew-primevideo.fr
 renew-rightnow.site
+renew-video-prime.fr
+renew-videoprime.fr
 renew-vitales-france.fr
 renewableset.com
 renewal-subscription-help-center.com
@@ -155405,6 +155412,7 @@ servicejeansfactory.com
 serviceleboncoin.fr
 servicelitige-pplshop.fr
 servicelivraison-chronopost.fr
+servicemac.fr
 servicemaintenance-younitedpro.fr
 servicemajoinfo.fr
 servicemajoration-antai.fr
