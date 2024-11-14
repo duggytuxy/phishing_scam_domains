@@ -16691,6 +16691,7 @@ app-bitbanlk-cc.weebly.com
 app-bitbuy.com
 app-blablacar.fr
 app-bnb-wsk.com
+app-bnpparibas.fr
 app-bpopulaires-assurances.fr
 app-bryhel.com
 app-bugsolution.pages.dev
@@ -44976,6 +44977,7 @@ cpaservices.com.ar
 cpasmieux-streaming.fr
 cpaspeed.online
 cpay-cetelem.fr
+cpaycetelm.fr
 cpc138130-hatf10-2-0-cust814.9-3.cable.virginm.net
 cpcalendars.reviews-sec.com
 cpcontacts.5trip.mixh.jp
@@ -50524,6 +50526,7 @@ destionscomplots.com
 destockage-lenovo.fr
 destockage-ps5.fr
 destockagechaussure.fr
+destockageoutlet.fr
 destockoutlet.fr
 destockphone.fr
 destokage.com
@@ -59456,6 +59459,7 @@ espace-abonnement.fr
 espace-acces-auth.fr
 espace-acquittement.fr
 espace-activations.fr
+espace-actualisation-assure-enligne.fr
 espace-actualisation.fr
 espace-agricol.fr
 espace-aidesante.fr
@@ -83490,6 +83494,7 @@ id-772982.com
 id-ameli.fr
 id-applela.com
 id-appleus.com
+id-bnpparibas.fr
 id-bon-coin.fr
 id-c.fr
 id-cgd.com
@@ -84661,6 +84666,7 @@ impot-gov-m.fr
 impot-gov.fr
 impot-ict.fr
 impot-infogouv.fr
+impot-publique.fr
 impot-refgouv.fr
 impot-rembours.fr
 impot-remboursement.fr
@@ -97195,6 +97201,7 @@ leboncoinpay.fr
 leboncoinpayement.fr
 leboncoinpayementsecuryse.fr
 leboncoins-leboncoin.fr
+leboncoins.fr
 leboncoinsecurisepaiement.fr
 leboncoinsecurite.fr
 leboncoinserviceinformation.fr
@@ -100672,6 +100679,7 @@ loftknowing.com
 loftnet.net
 loftycontinuousrascal.com
 loftyforex.com
+log-cetelm.fr
 log-creditagricoleitalia.com
 log-millenniumbcp.fr
 log-netflix.info
@@ -110775,6 +110783,7 @@ moncelork.com
 moncerticodeplus.fr
 moncertifcat-air.fr
 moncertificat-critair.fr
+monchequenergie.fr
 monchoixmagazine.fr
 monchorleans.fr
 moncialrelay.fr
@@ -114440,6 +114449,7 @@ naomiwoodfordcoaching.com
 naosfrance.fr
 naosou.info
 nap-garena.vn
+napapijrifrance.fr
 napapijriparis.fr
 napbuatiecnotnhac.com
 napcard.net
@@ -144965,6 +144975,7 @@ secure-netfllx.fr
 secure-network-rebirthltd.ru
 secure-online.fr
 secure-ouigo-sncf-connect.fr
+secure-paiement.fr
 secure-palatineinterface.fr
 secure-particulier-sg.fr
 secure-particuliers-societegenerale.fr
@@ -146409,6 +146420,7 @@ service-de-paiement-des-infractions.fr
 service-demande-esim.fr
 service-des-amendes.fr
 service-deutsche.com
+service-dgfip.fr
 service-dhl.fr
 service-digitale-client.fr
 service-disneyplus.fr
@@ -180620,6 +180632,7 @@ wildlingshoesaustralia.com
 wildlingshoescanada.com
 wildlingshoesespana.com
 wildlingshoesfrance.com
+wildlingshoesfrance.fr
 wildlingshoesgermany.com
 wildlingshoesisrael.com
 wildlingshoesnederland.com
