@@ -1,5 +1,5 @@
 # Intelligence_DNS_Blocklist
-Intelligence DNS Blocklist: Phishing, Scam Domains
+Intelligence DNS Blocklist : Phishing, Scam, Malicious DN, Malware Delivery
 
 **Support our work with a donation 👉 https://www.paypal.com/donate/?hosted_button_id=YDTWBDBS7CPLN**
 
