@@ -2,6 +2,7 @@
 Intelligence DNS Blocklist : Phishing, Scam, Malicious DN, Malware Delivery
 
 **Support my work with a donation**
+
 Paypal : 👉 https://www.paypal.com/donate/?hosted_button_id=YDTWBDBS7CPLN
 Bitcoin : 👉 bc1q57u5usqp2z0qqp4w4r4lvwaalf0uypls8quzm6
 
